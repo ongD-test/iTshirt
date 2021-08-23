@@ -2,3 +2,4 @@
 
 1. update
 2. purchase
+3. show feature page
